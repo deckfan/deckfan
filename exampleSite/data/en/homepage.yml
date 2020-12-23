@@ -5,7 +5,7 @@ banner:
   content: Play with Us!
   image: images/watch.png
   button:
-    enable: true
+    enable: false
     label: Browse All Products
     link: products
 features:
