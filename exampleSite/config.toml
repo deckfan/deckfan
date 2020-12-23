@@ -1,6 +1,6 @@
 baseurl = "http://deck.fan/"
 disableLanguages = []
-googleAnalytics = ""
+googleAnalytics = "G-MB8F4FSNV2"
 summarylength = "20"
 theme = "vex-hugo"
 title = "FanDeck"
