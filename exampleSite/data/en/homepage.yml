@@ -74,8 +74,8 @@ products:
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
-  title: Get Product Updates
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  title: Let's keep in touch!
+  content: 'We will not spam you! '
   placeholder: Your Email Address Here
 testimonial:
   enable: false
