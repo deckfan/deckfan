@@ -3,7 +3,7 @@ banner:
   enable: true
   title: FanDeck
   content: Play with Us!
-  image: images/watch.png
+  image: images/fandecklogo.png
   button:
     enable: false
     label: Browse All Products
