@@ -16,7 +16,7 @@ unsafe = true
 author = "Themefisher"
 contact_form_action = "#"
 currency = "$"
-description = "This is meta description"
+description = "Play with us!"
 logo = "images/logo.png"
 logo_width = "100px"
 [[params.plugins.css]]
