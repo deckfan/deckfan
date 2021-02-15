@@ -77,7 +77,7 @@ subscription:
   content: 'We will not spam you! '
   items:
     button:
-      enable: false
+      enable: true
       label: Subscribe
       link: "https://gmail.us1.list-manage.com/subscribe/post?u=bbb50872d189e5f653ded1f2b&amp;id=98b0c66ee9"
 
