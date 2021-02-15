@@ -70,31 +70,16 @@ about_product:
       link: "#"
 products:
   enable: false
-  title: Checkout Our All Products
+  title: Subscribe
 subscription:
-  enable: true
+  enable: false
   title: Let's keep in touch!
   content: 'We will not spam you! '
   items:
     button:
       enable: true
       label: Subscribe
-      link: "https://gmail.us1.list-manage.com/subscribe/post?u=bbb50872d189e5f653ded1f2b&amp;id=98b0c66ee9"
-
-  # enable: false
-  # bg_image: ''
-  # title: Let's keep in touch!
-  # content: 'We will not spam you! '
-  # placeholder: infodeckfan@gmail.com
-# subscribe:
-#   enable: true
-#   title: Let's keep in touch!
-#   content: 'We will not spam you! '
-#   items:
-#     button:
-#       enable: false
-#       label: Subscribe
-#       link: "https://gmail.us1.list-manage.com/subscribe/post?u=bbb50872d189e5f653ded1f2b&amp;id=98b0c66ee9"
+      link: https://gmail.us1.list-manage.com/subscribe/post?u=bbb50872d189e5f653ded1f2b&amp;id=98b0c66ee9
 testimonial:
   enable: false
   title: Watch Review
