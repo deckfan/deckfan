@@ -73,7 +73,7 @@ products:
   title: Checkout Our All Products
 subscription:
   enable: true
-  bg_image: images/call-to-action.jpg
+  bg_image: ''
   title: Let's keep in touch!
   content: 'We will not spam you! '
   placeholder: infodeckfan@gmail.com
