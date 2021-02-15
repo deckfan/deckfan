@@ -37,5 +37,5 @@ link = "plugins/slick/slick.min.js"
 enable = true
 preloader = ""
 [params.subscription]
-mailchimp_form_action = "http://matteovitolo.com"
-mailchimp_form_name = ""
+mailchimp_form_action = "https://gmail.us1.list-manage.com/subscribe/post?u=bbb50872d189e5f653ded1f2b&amp;id=98b0c66ee9"
+mailchimp_form_name = "b_bbb50872d189e5f653ded1f2b_98b0c66ee9"
