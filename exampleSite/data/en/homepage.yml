@@ -72,7 +72,7 @@ products:
   enable: false
   title: Checkout Our All Products
 subscription:
-  enable: false
+  enable: true
   bg_image: images/call-to-action.jpg
   title: Let's keep in touch!
   content: 'We will not spam you! '
