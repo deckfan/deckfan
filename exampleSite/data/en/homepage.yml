@@ -50,7 +50,7 @@ about_product:
   enable: true
   title: What's next?
   items:
-  - image: ''
+  - image: "/images/logo.png"
     title: Let's stay in touch!
     content: ''
     button:
