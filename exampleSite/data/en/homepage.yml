@@ -71,16 +71,17 @@ about_product:
 products:
   enable: false
   title: Checkout Our All Products
-# subscription:
-#   enable: true
-#   bg_image: ''
-#   title: Let's keep in touch!
-#   content: 'We will not spam you! '
-#   placeholder: infodeckfan@gmail.com
 subscription:
+  enable: false
+  bg_image: ''
+  title: Let's keep in touch!
+  content: 'We will not spam you! '
+  placeholder: infodeckfan@gmail.com
+subscribe:
   enable: true
   title: Let's keep in touch!
   content: 'We will not spam you! '
+  items:
     button:
       enable: false
       label: Subscribe
