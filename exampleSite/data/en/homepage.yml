@@ -58,10 +58,10 @@ about_product:
       label: Subscribe
       link: https://gmail.us1.list-manage.com/subscribe/post?u=bbb50872d189e5f653ded1f2b&amp;id=98b0c66ee9
 products:
-  enable: true
+  enable: false
   title: Subscribe
 subscription:
-  enable: false
+  enable: true
   title: Let's keep in touch!
   content: 'We will not spam you! '
   items:
