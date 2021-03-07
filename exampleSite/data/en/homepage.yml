@@ -61,7 +61,7 @@ products:
   enable: false
   title: Subscribe
 subscription:
-  enable: true
+  enable: false
   title: Let's keep in touch!
   content: 'We will not spam you! '
   items:
