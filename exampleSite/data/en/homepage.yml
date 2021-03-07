@@ -58,7 +58,7 @@ about_product:
       label: Subscribe
       link: https://gmail.us1.list-manage.com/subscribe/post?u=bbb50872d189e5f653ded1f2b&amp;id=98b0c66ee9
 products:
-  enable: false
+  enable: true
   title: Subscribe
 subscription:
   enable: false
