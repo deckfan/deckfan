@@ -50,6 +50,12 @@ about_product:
   enable: true
   title: What's next?
   items:
+  - image: ''
+    title: ''
+    content: ''
+    button:
+      enable: true
+      label: AAAA
   - image: "/images/logo.png"
     title: Let's stay in touch!
     content: ''
