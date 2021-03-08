@@ -5,7 +5,7 @@ banner:
   content: Play with Us!
   image: "/images/prova.png"
   button:
-    enable: true
+    enable: false
     label: Subscibe!
     link: https://gmail.us1.list-manage.com/subscribe/post?u=bbb50872d189e5f653ded1f2b&amp;id=98b0c66ee9
 features:
