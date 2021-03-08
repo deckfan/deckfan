@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  title: FanDeck
-  content: Play with Us!
+  title: ''
+  content: ''
   image: "/images/prova.png"
   button:
     enable: false
