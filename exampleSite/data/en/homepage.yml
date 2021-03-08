@@ -3,7 +3,7 @@ banner:
   enable: true
   title: FanDeck
   content: Play with Us!
-  image: images/fandecklogo.png
+  image: "/images/prova.png"
   button:
     enable: true
     label: Subscibe!
