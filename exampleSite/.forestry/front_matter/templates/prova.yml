@@ -1,0 +1,120 @@
+---
+label: Prova
+hide_body: true
+fields:
+- type: text
+  name: baseurl
+  label: baseurl
+- type: list
+  name: disableLanguages
+  label: disableLanguages
+- type: text
+  name: googleAnalytics
+  label: googleAnalytics
+- type: text
+  name: summarylength
+  label: summarylength
+- type: text
+  name: theme
+  label: theme
+- type: text
+  name: title
+  label: title
+- type: field_group
+  name: Languages
+  label: Languages
+  fields:
+  - type: field_group
+    name: en
+    label: en
+    fields:
+    - type: text
+      name: contentDir
+      label: contentDir
+    - type: text
+      name: copyright
+      label: copyright
+    - type: text
+      name: languageCode
+      label: languageCode
+    - type: text
+      name: languageName
+      label: languageName
+    - type: number
+      name: weight
+      label: weight
+- type: field_group
+  name: markup
+  label: markup
+  fields:
+  - type: field_group
+    name: goldmark
+    label: goldmark
+    fields:
+    - type: field_group
+      name: renderer
+      label: renderer
+      fields:
+      - type: boolean
+        name: unsafe
+        label: unsafe
+- type: field_group
+  name: params
+  label: params
+  fields:
+  - type: text
+    name: author
+    label: author
+  - type: text
+    name: contact_form_action
+    label: contact_form_action
+  - type: text
+    name: currency
+    label: currency
+  - type: text
+    name: description
+    label: description
+  - type: file
+    name: logo
+    label: logo
+  - type: text
+    name: logo_width
+    label: logo_width
+  - type: field_group
+    name: plugins
+    label: plugins
+    fields:
+    - type: field_group_list
+      name: css
+      label: css
+      fields:
+      - type: text
+        name: link
+        label: link
+    - type: field_group_list
+      name: js
+      label: js
+      fields:
+      - type: text
+        name: link
+        label: link
+  - type: field_group
+    name: preloader
+    label: preloader
+    fields:
+    - type: boolean
+      name: enable
+      label: enable
+    - type: text
+      name: preloader
+      label: preloader
+  - type: field_group
+    name: subscription
+    label: subscription
+    fields:
+    - type: text
+      name: mailchimp_form_action
+      label: mailchimp_form_action
+    - type: text
+      name: mailchimp_form_name
+      label: mailchimp_form_name
