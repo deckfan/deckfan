@@ -9,7 +9,7 @@ banner:
     label: Subscibe!
     link: products
 features:
-  enable: false
+  enable: true
   title: Our Core Features
   image: images/watch-2.png
   left_side:
