@@ -5,8 +5,8 @@ banner:
   content: Play with Us!
   image: images/fandecklogo.png
   button:
-    enable: false
-    label: Browse All Products
+    enable: true
+    label: Subscibe!
     link: products
 features:
   enable: false
@@ -47,15 +47,9 @@ promo:
     obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
     consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
 about_product:
-  enable: false
+  enable: true
   title: What's next?
   items:
-  - image: ''
-    title: ''
-    content: ''
-    button:
-      enable: true
-      label: AAAA
   - image: "/images/logo.png"
     title: Let's stay in touch!
     content: ''
@@ -64,7 +58,7 @@ about_product:
       label: Subscribe
       link: https://gmail.us1.list-manage.com/subscribe/post?u=bbb50872d189e5f653ded1f2b&amp;id=98b0c66ee9
 products:
-  enable: true
+  enable: false
   title: Subscribe
 subscription:
   enable: true
