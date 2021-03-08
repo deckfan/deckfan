@@ -7,9 +7,9 @@ banner:
   button:
     enable: true
     label: Subscibe!
-    link: products
+    link: https://gmail.us1.list-manage.com/subscribe/post?u=bbb50872d189e5f653ded1f2b&amp;id=98b0c66ee9
 features:
-  enable: true
+  enable: false
   title: Our Core Features
   image: images/watch-2.png
   left_side:
