@@ -48,7 +48,7 @@ promo:
     consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
 about_product:
   enable: true
-  title: What's next?
+  title: ''
   items:
   - image: "/images/logo.png"
     title: Let's stay in touch!
