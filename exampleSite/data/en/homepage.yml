@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: true
+  enable: false
   title: ''
   content: ''
   image: "/images/prova.png"
@@ -52,7 +52,7 @@ about_product:
   items:
   - image: "/images/logo.png"
     title: Let's stay in touch!
-    content: ''
+    content: We will not spam you!
     button:
       enable: true
       label: Subscribe
