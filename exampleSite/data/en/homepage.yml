@@ -50,7 +50,7 @@ about_product:
   enable: true
   title: ''
   items:
-  - image: "/images/prova.png"
+  - image: "/images/fandeckbanner.png"
     title: Let's stay in touch!
     content: We will not spam you!
     button:
